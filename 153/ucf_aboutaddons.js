@@ -4,7 +4,9 @@
 /**
 @UCF @param {"prop":"JsChrome.load","ucfobj":true} @UCF
 */
-
+/**
+@UCF @param {"prop":"JsBackground","disable":false} @UCF
+*/ 
 (async (css, self) => ({
 
 	//===[ Buttons ]===================================================================
