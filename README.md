@@ -3,7 +3,8 @@ Firefox scripts for custom loaders
 
 Описание/Description
 <br>
-Здесь лежат кастомные скрипты для Firefox 153, сделанные мной с помощью ЧатГПТ.
+Здесь лежат кастомные скрипты для Firefox 153, адаптированные или сделанные мной с помощью ЧатГПТ.
+
 
 1. Кнопки из Custom Buttons, адаптированные для UCF:
 <details>
@@ -51,6 +52,8 @@ Firefox scripts for custom loaders
 С этим скриптом меню закладок не закрывается после клика по закладке, пока с него не уйдёт курсор. Кнопки у скрипта нет (не требуется).
 </details>
 <br>
+
+
 2. Скрипты для UCF, адаптированные под FF 153:
 <details>
 <summary><b>ucf_Browser-Console.js - Кнопка консоли браузера</b></summary>
@@ -70,6 +73,8 @@ Firefox scripts for custom loaders
 <br>
 
 3. Новые скрипты для UCF под FF 153:
+
+   
 <details>
 <summary><b>ucf_Browser-Toolbox.js - Кнопка Browser Toolbox</b></summary>
 Кнопка Browser Toolbox на панели. Кнопка подсвечена, пока Toolbox открыт. Закрытие по кнопке сделать невозможно, закрывать кликом по крестику.
@@ -85,8 +90,11 @@ Firefox scripts for custom loaders
 
 </details>
 
+
 <details>
 <summary><b>Скрины окна браузера с иконками кнопок</b></summary>
+
+  
 <img src="https://raw.githubusercontent.com/Yankazar/Firefox-scripts/refs/heads/main/Firefox-scripts1.png" height="320" alt="Firefox-scripts1">
 <img src="https://raw.githubusercontent.com/Yankazar/Firefox-scripts/refs/heads/main/Firefox-scripts2.png" height="320" alt="Firefox-scripts2">  
 </details>
