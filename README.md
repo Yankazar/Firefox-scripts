@@ -92,6 +92,8 @@ Firefox scripts for custom loaders
 
 
 <details>
+
+   
 <summary><b>Скрины окна браузера с иконками кнопок</b></summary>
 
   
