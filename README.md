@@ -95,7 +95,7 @@ Firefox scripts for custom loaders
 <details>
 <summary><b>ucf_DownloadCounter.js - Счётчик загрузок</b></summary>
 Отображает количество активных и завершённых загрузок до перезагрузки браузера.
-
+<br>
 <img src="https://raw.githubusercontent.com/Yankazar/Firefox-scripts/refs/heads/main/Firefox-scripts3.png" height="320" alt="Firefox-scripts3">  
 
 </details>
