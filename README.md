@@ -76,8 +76,16 @@ Firefox scripts for custom loaders
 <summary><b>ucf_aboutaddons.js - Дополнительные пункты контекстного меню на странице about:addons</b></summary>
 Добавляет дополнительные пункты контекстного меню на странице about:addons и делает его компактным. Функция обновления аддонов по отдельности не работает, убирать кнопку не стал, если кто-то желает, может попытаться допилить. <a href="https://forum.mozilla-russia.org/viewtopic.php?pid=804854#p804854">Исходный код</a>.
 <img src="https://raw.githubusercontent.com/Yankazar/Firefox-scripts/refs/heads/main/Firefox-scripts4.png" height="320" alt="Firefox-scripts4">  
-
 </details>
+<details>
+<summary><b>ucf_browser-context-search.js - Контекстный поиск</b></summary>
+Поиск в контекстном меню с выбором поисковиков. <a href="https://forum.mozilla-russia.org/viewtopic.php?pid=780283#p780283">Исходный код</a>.
+</details>
+<details>
+<summary><b>ucf_dav_button_undoCloseTabs.js - Вернуть закрытую вкладку</b></summary>
+<a href="https://github.com/sdavidg/firefoxChromeScripts/blob/main/scripts/dav_button_undoCloseTabs.uc.js">Исходный код</a>.
+</details>
+
 
 <br>
 
