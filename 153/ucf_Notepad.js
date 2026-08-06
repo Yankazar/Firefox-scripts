@@ -174,15 +174,6 @@
 
                     }
 
-
-                    else if (e.button == 1) {
-
-                        SidebarUI.toggle(
-                            "viewBookmarksSidebar"
-                        );
-
-                    }
-
                 }
             );
 
