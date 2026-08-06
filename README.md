@@ -90,11 +90,12 @@ Firefox scripts for custom loaders
 </details>
 <details>
 <summary><b>ucf_container-color-url.js - Текст адресной панели в цвет контейнера</b></summary>
-Меняет цвет цвет текста в адресной панели и выпадающего списка адресной панели в зависимости от цвета иконки контейнера, сделал из-за <a href="https://forum.ru-board.com/topic.cgi?forum=5&topic=51720&start=500#15">этого запроса</a>. рекомендуется использовать со стилем рамки из того же сообщения.
+Меняет цвет цвет текста в адресной панели и выпадающего списка адресной панели в зависимости от цвета иконки контейнера, сделал из-за <a href="https://forum.ru-board.com/topic.cgi?forum=5&topic=51720&start=500#15">этого запроса</a>. Рекомендуется использовать со стилем рамки из того же сообщения.
 </details>
 <details>
 <summary><b>ucf_DownloadCounter.js - Счётчик загрузок</b></summary>
 Отображает количество активных и завершённых загрузок до перезагрузки браузера.
+
 <img src="https://raw.githubusercontent.com/Yankazar/Firefox-scripts/refs/heads/main/Firefox-scripts3.png" height="320" alt="Firefox-scripts3">  
 
 </details>
