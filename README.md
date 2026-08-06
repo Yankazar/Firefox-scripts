@@ -4,6 +4,15 @@ Firefox scripts for custom loaders
 Описание/Description
 <br>
 Здесь лежат кастомные скрипты для Firefox 153, адаптированные или сделанные мной с помощью ЧатГПТ.
+Скрипты делались под загрузчик UCF, но должны работать и в других загрузчиках, например, xiaoxiaoflood.
+Большинство скриптов работают в том числе и под 140 ESR.
+<details>
+   
+<summary><b>Скрины окна браузера с иконками кнопок</b></summary>
+  
+<img src="https://raw.githubusercontent.com/Yankazar/Firefox-scripts/refs/heads/main/Firefox-scripts1.png" height="320" alt="Firefox-scripts1">
+<img src="https://raw.githubusercontent.com/Yankazar/Firefox-scripts/refs/heads/main/Firefox-scripts2.png" height="320" alt="Firefox-scripts2">  
+</details>
 
 
 1. Кнопки из Custom Buttons, адаптированные для UCF:
@@ -91,12 +100,4 @@ Firefox scripts for custom loaders
 </details>
 
 
-<details>
 
-   
-<summary><b>Скрины окна браузера с иконками кнопок</b></summary>
-
-  
-<img src="https://raw.githubusercontent.com/Yankazar/Firefox-scripts/refs/heads/main/Firefox-scripts1.png" height="320" alt="Firefox-scripts1">
-<img src="https://raw.githubusercontent.com/Yankazar/Firefox-scripts/refs/heads/main/Firefox-scripts2.png" height="320" alt="Firefox-scripts2">  
-</details>
