@@ -70,7 +70,7 @@ Firefox scripts for custom loaders
 </details>
 <details>
 <summary><b>ucf_privateTabs153+.js - Приватная вкладка</b></summary>
-Создаёт приватную вкладку в браузере. <a href="https://github.com/aminomancer/uc.css.js/blob/master/JS/privateTabs.uc.js">Исходный код</a>.
+Создаёт приватную вкладку в браузере. Кнопки нет, открывается через контекстное меню. <a href="https://github.com/aminomancer/uc.css.js/blob/master/JS/privateTabs.uc.js">Исходный код</a>.
 </details>
 <details>
 <summary><b>ucf_aboutaddons.js - Дополнительные пункты контекстного меню на странице about:addons</b></summary>
@@ -87,6 +87,7 @@ Firefox scripts for custom loaders
 </details>
 <details>
 <summary><b>ucf_Compact_Menu153.js - Компактное меню в одну кнопку</b></summary>
+Компактное меню, адаптированное под FF 153.
 <a href="https://forum.mozilla-russia.org/viewtopic.php?pid=810809#p810809">Исходный код</a>.
 </details>
 
