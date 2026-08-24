@@ -112,6 +112,6 @@ Firefox scripts for custom loaders
 </details>
 <details>
 <summary><b>ucf_save-active-tab-pdf.js - Кнопка сохранения pdf</b></summary>
-Сохраняет pdf с текущими настройками без окна оверлея.</details>
+Сохраняет pdf с текущими настройками пользователя без окна оверлея.</details>
 
 
