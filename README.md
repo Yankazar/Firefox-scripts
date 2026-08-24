@@ -105,8 +105,9 @@ Firefox scripts for custom loaders
 Отображает количество активных и завершённых загрузок до перезагрузки браузера.
 <br>
 <img src="https://raw.githubusercontent.com/Yankazar/Firefox-scripts/refs/heads/main/Firefox-scripts3.png" height="320" alt="Firefox-scripts3">  
-
 </details>
-
+<details>
+<summary><b>ucf_save-active-tab-pdf.js - Кнопка сохранения pdf</b></summary>
+Сохраняет pdf с текущими настройками без окна оверлея.</details>
 
 
