@@ -85,7 +85,10 @@ Firefox scripts for custom loaders
 <summary><b>ucf_dav_button_undoCloseTabs.js - Вернуть закрытую вкладку</b></summary>
 <a href="https://github.com/sdavidg/firefoxChromeScripts/blob/main/scripts/dav_button_undoCloseTabs.uc.js">Исходный код</a>.
 </details>
-
+<details>
+<summary><b>ucf_Compact_Menu153.js - Компактное меню в одну кнопку</b></summary>
+<a href="https://forum.mozilla-russia.org/viewtopic.php?pid=810809#p810809">Исходный код</a>.
+</details>
 
 <br>
 
